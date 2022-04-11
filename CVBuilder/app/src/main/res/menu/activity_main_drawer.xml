@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_android"
+            android:title="Main" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_apple"
+            android:title="Meet me" />
+        <item
+            android:id="@+id/nav_experience"
+            android:icon="@drawable/work"
+            android:title="Professional Experience" />
+        <item
+            android:id="@+id/nav_to_other"
+            android:icon="@drawable/telephone"
+            android:title="Get in touch" />
+    </group>
+</menu>

@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">CVBuilder</string>
+    <string name="facebook">Facebook: Marcelo Sotomaior</string>
+    <string name="linkedin">Linkedin: https://www.linkedin.com/in/marcelosotomaior</string>
+    <string name="phone">Phone: +1 (312) 409-0110</string>
+    <string name="address">10628 Meadowbrooke Dr. Riverview, FL, 33578</string>
+    <string name="email">email: marcelo.sotomaior@gmail.com</string>
+    <string name="instagram">5chello</string>
+    <string name="menu_home">Main</string>
+    <string name="fun_fact">Fun Facts</string>
+    <string name="menu_slideshow">Work</string>
+    <string name="menu_tools">Contact</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Marcelo Sotomaior</string>
+    <string name="nav_header_subtitle">marcelo.sotomaior@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="my_name">Marcelo Sotomaior</string>
+
+    <string name="my_profession">Mobile Developer</string>
+    <string name="my_description">Professional web and mobile application developer with an extensive history covering more than 4 years in the design and development of technical software solutions for business clients in various industries. Able to implement and optimize modules using robust, efficient code which meets industry standards, ensuring performance, accuracy, and functionality of finished products. Strong skills in object-oriented programming and cutting-edge technologies such as Swift, Bitbucket, Jira, MS Azure, DevOps, GIT, CI/CD, Jenkins, REST and GraphQL.</string>
+
+    <string name="my_description2">
+
+    Mobile Applications • Object-Oriented Principles • Design Patterns E-Commerce • Continuous Integration and Deployment • Version Control • Unit Testing Front-End and Back-End • Performance Improvement • Blockchain • Banking
+    Languages: Java, Swift
+    Web: JavaScript, HTML5, CSS3
+    Web Services: REST
+    Web/App Servers: Tomcat, Glassfish, Vapor
+    Frameworks: Flutter, Alamofire, Banking, Kingfisher, Hadoop, Apache Pig, Hive Databases: MySQL, MS SQL, MongoDB, HBase
+    Design Patterns: MVC, MVVM, Factory, Singleton
+    Tools: Trello, Jira, Bitbucket, Git, GitHub, GraphQL, Firebase, VS Code, Xcode, DevOps
+</string>
+    <string name="my_phone">312-4090110</string>
+    <string name="my_email">Email: mazevedo@miu.edu</string>
+    <string name="my_linkedin">Linkedin: https://www.linkedin.com/in/marcelosotomaior</string>
+
+    <string name="my_address">Address: 1000 North 4th Street, MR#229. Building 141, Room 131. Fairfield, Iowa, United State of America.</string>
+    <string name="about_me">
+Professional web and mobile application developer with an extensive history covering more than 4 years in the design and development of technical software solutions for business clients in various industries. Able to implement and optimize modules using robust, efficient code which meets industry standards, ensuring performance, accuracy, and functionality of finished products. Strong skills in object-oriented programming and cutting-edge technologies such as Swift, Bitbucket, Jira, MS Azure, DevOps, GIT, CI/CD, Jenkins, REST and GraphQL.</string>
+    <string name="objective">Mobile Applications • Object-Oriented Principles • Design Patterns E-Commerce • Continuous Integration and Deployment • Version Control • Unit Testing Front-End and Back-End • Performance Improvement • Blockchain • Banking</string>
+
+    <string name="skills">My name is Marcelo, I am from Brazil and have bee workig in multicultural environments all over the world as Mobile Developer, including Hong Kong, London and Naples, Italy. I like to play soccer, tennis and go for kart racing.</string>
+    <string name="firstJob"> Universal Studios via Apex Systems, Orlando, Florida • 2022-Present
+iOS Developer
+Worked on mobile application used for booking park attractions in all Universal Studios parks.
+</string>
+    <string name="secondJob">JPMorgan Chase via Artech, Plano, Texas • 2021-2022
+iOS Developer
+Worked on mobile application used by more than 60 million people using MVVM for the design pattern.
+</string>
+    <string name="project1">1.	Worked on Payment solutions including Transfers, Check Deposits and Zelle Pay, implementing
+MVVM-C UI architecture and hiding implementation of key methods, improving security.</string>
+    <string name="project2">2.	Implemented external frameworks using dependency injection technique, with Unit Tests safety.</string>
+    <string name="project3">3.	Writes and executes complete testing plans, using QA environment and Mock Servers, protocols, for assigned portion of application; identifies and debugs and creates solutions for issues with
+code and integration into application architecture.</string>
+    <string name="responsibility">•• Developed and delivered mobile app from scratch, using MVVM design pattern.
+• Recommended and executed improvements which resulted in a 55% performance increase.
+• Integrated mobile app with new backend using GraphQL technology with Apollo.
+</string>
+
+    <string name="design">1. Design</string>
+    <string name="uml">• Designed and developed new mobile financial app with integrated blockchain technology.
+• Maintained legacy product lines and fixed bugs.
+• Coordinated e-learning project to educate stakeholders on mobile use and benefits..</string>
+
+    <string name="programming">2. Computer Programming languages, Frameworks and Tools</string>
+    <string name="programmingSkills">Swift, REST, Framework Management, Agile Scrum, XCode, Jenkins, Bitbucket, Jira, MockServers
+
+</string>
+
+    <string name="graduate">
+    Maharishi University of Management (MUM), Master of Computer Science. 2022, Fairfield, Iowa, United State of America.
+</string>
+    <string name="undergraduate">
+    Graduation of Arts in Business Management (2008) United Metropolitan Colleges (FMU) – São Paulo, Brazil
+</string>
+
+</resources>
