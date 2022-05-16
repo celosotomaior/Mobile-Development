@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".QuestionFragment">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="250dp"
+        android:layout_height="160dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:contentDescription="@string/quizapp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/bubble"
+        tools:ignore="ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/tvQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Question To Ask"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/groupradio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <RadioButton
+            android:id="@+id/radia_id1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:text="DBMS"
+            android:textSize="20dp" />
+
+        <RadioButton
+            android:id="@+id/radia_id2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:text="C/C++ Programming"
+            android:textSize="20dp" />
+
+        <RadioButton
+            android:id="@+id/radia_id3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:text="Data Structure"
+            android:textSize="20dp" />
+
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+        <!-- add button For Submit the Selected item-->
+
+        <Button
+            android:id="@+id/btnSkip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@color/design_default_color_secondary_variant"
+            android:onClick="onSkipClick"
+            android:text="Skip"
+            android:textColor="#5E35B1"
+            android:textSize="20dp" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@color/design_default_color_secondary_variant"
+            android:onClick="onNextClick"
+            android:text="Continue"
+            android:textColor="#5E35B1"
+            android:textSize="20dp" />
+    </LinearLayout>
+</LinearLayout>

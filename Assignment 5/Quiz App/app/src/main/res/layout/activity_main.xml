@@ -19,7 +19,7 @@
             android:id="@+id/first_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1. Which one is the default access modifier?"
+            android:text="1. What are the main data types in Kotlin?"
             android:textSize="20dp"/>
 
         <RadioButton
@@ -55,11 +55,11 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="1. Prodcedural programming"/>
+            android:text="1. Boolean and Numbers"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="2. Objected-oriented programing"/>
+            android:text="2. Characters, Arrays and Strings"/>
         <RadioButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
